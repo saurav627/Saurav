@@ -1,7 +1,7 @@
 import pygame
 import time
 import random
-
+#The worlds best game
 pygame.init()
 
 display_width = 800
